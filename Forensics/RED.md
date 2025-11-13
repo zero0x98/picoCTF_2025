@@ -7,7 +7,7 @@ Author: Shuailin Pan (LeConjuror)
 RED, RED, RED, RED
 Download the image: red.png
 
-![image-20251113135434191](./imgs/Screenshot_2025-11-13_135424.png)
+![image-20251113135434191](./imgs/red/Screenshot_2025-11-13_135424.png)
 
 #### Bước 1:
 
@@ -18,13 +18,13 @@ Download the image: red.png
 
 - Sau khi chạy lệnh tôi nhận thấy có một đoạn mã rất khả nghi
 
-  ![image-20251113135857785](./imgs/Screenshot_2025-11-13_135801.png)
+  ![image-20251113135857785](./imgs/red/Screenshot_2025-11-13_135801.png)
 
 > cGljb0NURntyM2RfMXNfdGgzX3VsdDFtNHQzX2N1cjNfZjByXzU0ZG4zNTVffQ==cGljb0NURntyM2RfMXNfdGgzX3VsdDFtNHQzX2N1cjNfZjByXzU0ZG4zNTVffQ==cGljb0NURntyM2RfMXNfdGgzX3VsdDFtNHQzX2N1cjNfZjByXzU0ZG4zNTVffQ==cGljb0NURntyM2RfMXNfdGgzX3VsdDFtNHQzX2N1cjNfZjByXzU0ZG4zNTVffQ==
 
 - Vậy là tôi nghĩ đến giải mã ra xem sao
 
-  ![image-20251113140049360](./imgs/Screenshot_2025-11-13_140031.png)
+  ![image-20251113140049360](./imgs/red/Screenshot_2025-11-13_140031.png)
 
 Ồ wow quả nhiên điều chúng ta mong chờ cũng đến đó là một lá cờ: 
 

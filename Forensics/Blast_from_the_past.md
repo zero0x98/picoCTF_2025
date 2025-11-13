@@ -17,7 +17,7 @@ Additional details will be available after launching your challenge instance.
 
 
 
-![image-20251113211722600](./imgs/Blast01.png)
+![image-20251113211722600](./imgs/blast/Blast01.png)
 
 
 
@@ -31,15 +31,15 @@ $ exiftool original.jpg
 
 - Kết quả thu được là khá nhiều mốc thời gian:
 
-![Blast02](./imgs/Blast02.png)
+![Blast02](./imgs/blast/Blast02.png)
 
 
 
-![Blast03](./imgs/Blast03.png)
+![Blast03](./imgs/blast/Blast03.png)
 
 
 
-![Blast04](./imgs/Blast04.png)
+![Blast04](./imgs/blast/Blast04.png)
 
 
 
@@ -69,7 +69,7 @@ $ nc mimas.picoctf.net 58662
 
 - Kết quả thu được có vẻ sai sót ở thời gian nào đó:
 
-![Blast05](./imgs/Blast05.png)
+![Blast05](./imgs/blast/Blast05.png)
 
 
 
@@ -83,7 +83,7 @@ $ xxd original.jpg
 
 - Và có vẻ đã ra thủ phạm, 1 chuỗi số khá kì lạ và khả nghi:
 
-![Blast06](./imgs/Blast06.png)
+![Blast06](./imgs/blast/Blast06.png)
 
 > 1700513181420
 
@@ -91,19 +91,19 @@ $ xxd original.jpg
 
 - Tôi check thử và ồ wow nó trông giống Timestamp:
 
-![Blast07](./imgs/Blast07.png)
+![Blast07](./imgs/blast/Blast07.png)
 
 
 
 - Vậy nên tôi nghĩ nên chỉnh lại mã hex để được 1 chuỗi diff (tôi nghĩ vậy):
 
-![Blast08](./imgs/Blast06.png)
+![Blast08](./imgs/blast/Blast06.png)
 
 
 
 sửa image_utc_data thành
 
-![Blast08](./imgs/Blast08.png)
+![Blast08](./imgs/blast/Blast08.png)
 
 
 
@@ -123,7 +123,7 @@ $ nc mimas.picoctf.net 58662
 
 - Kết quả thu được:
 
-![Blast09](./imgs/Blast09.png)
+![Blast09](./imgs/blast/Blast09.png)
 
 
 
