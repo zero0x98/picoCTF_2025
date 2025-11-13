@@ -31,15 +31,15 @@ $ exiftool original.jpg
 
 - Kết quả thu được là khá nhiều mốc thời gian:
 
-![Blast02](/home/meomeo/CTF_writeup/Forensics/imgs/Blast02.png)
+![Blast02](./imgs/Blast02.png)
 
 
 
-![Blast03](/home/meomeo/CTF_writeup/Forensics/imgs/Blast03.png)
+![Blast03](./imgs/Blast03.png)
 
 
 
-![Blast04](/home/meomeo/CTF_writeup/Forensics/imgs/Blast04.png)
+![Blast04](./imgs/Blast04.png)
 
 
 
@@ -69,7 +69,7 @@ $ nc mimas.picoctf.net 58662
 
 - Kết quả thu được có vẻ sai sót ở thời gian nào đó:
 
-![Blast05](/home/meomeo/CTF_writeup/Forensics/imgs/Blast05.png)
+![Blast05](./imgs/Blast05.png)
 
 
 
